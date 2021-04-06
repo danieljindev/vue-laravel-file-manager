@@ -1,0 +1,339 @@
+{
+    "routes": {
+        "create_new_password": "vytvorit-nove-heslo"
+    },
+    "routes_title": {
+        "profile": "Môj profil",
+        "settings_password": "Zmeniť heslo",
+        "settings_storage": "Úložisko",
+        "settings_mobile": "Nastavenia",
+        "users_list": "Správca uživateľov",
+        "users_user": "Uživateľ",
+        "users_detail": "Detail",
+        "users_storage_usage": "Využitie úložiska",
+        "users_password": "Heslo",
+        "users_delete": "Vymazať uživateľa",
+        "user_create": "Vytvoriť uživateľa"
+    },
+    "profile": {
+        "store_pass": "Uložiť nové heslo",
+        "change_pass": "Zmeniť heslo",
+        "profile_info": "Profil"
+    },
+    "page_registration": {
+        "title": "Vytvorenie nového účtu",
+        "subtitle": "Prosím, vyplňte formulár pre vytvorenie nového účtu:",
+        "label_email": "Email:",
+        "placeholder_email": "Napíš svoj E-mail",
+        "label_name": "Celé meno:",
+        "placeholder_name": "Napíš svoje celé meno",
+        "label_pass": "Vytvorte heslo:",
+        "placeholder_pass": "Vaše nové heslo",
+        "label_confirm_pass": "Potvrďte heslo:",
+        "placeholder_confirm_pass": "Potvrďte nové heslo",
+        "button_create_account": "Vytvoriť účet",
+        "have_an_account": "Máš už účet?"
+    },
+    "page_shared": {
+        "subtitle": "Prosím vložte heslo pre získanie prístupu k obsahu:",
+        "title": "Zdieľaný odkaz je chránený",
+        "placeholder_pass": "Vložte heslo",
+        "download_file": "Stiahnúť súbor",
+        "submit": "Potvrdiť"
+    },
+    "page_shared_404": {
+        "subtitle": "Obsah ktorý hľadáš bol pravdepodobne vymazaný.",
+        "title": "Obsah sa nenašiel :("
+    },
+    "page_create_password": {
+        "title": "Iba jeden krok pre prihlásenie",
+        "subtitle": "Vytvorte si nové heslo tu:",
+        "button_update": "Aktualizovať heslo",
+        "label_email": "Email:",
+        "label_new_pass": "Vaše nové heslo",
+        "label_confirm_pass": "Potvrďte nové heslo"
+    },
+    "page_forgotten_password": {
+        "title": "Zabudnuté heslo?",
+        "subtitle": "Získajte resetovací link pre Váš účet:",
+        "button_get_link": "Získať link",
+        "password_remember_text": "Pamätáte si heslo?",
+        "password_remember_button": "Prihlásiť sa.",
+        "pass_sennded_title": "Ďakujeme!",
+        "pass_sennded_subtitle": "Práve sme Vám odoslali link na Váš email!",
+        "pass_reseted_title": "Skvelé!",
+        "pass_reseted_subtitle": "Tvoje heslo bolo obnovené úspešne.",
+        "pass_reseted_signin": "Prihlásiť sa"
+    },
+    "page_sign_in": {
+        "title": "Voláte sa {name}?",
+        "subtitle": "Potvrďte zadaním hesla:",
+        "placeholder_password": "Napíšte svoje heslo",
+        "button_log_in": "Prihlásiť sa",
+        "password_reset_text": "Zabudli ste heslo?",
+        "password_reset_button": "Resetovať heslo."
+    },
+    "page_login": {
+        "title": "Vitajte späť!",
+        "subtitle": "Prosím, vložte svoj email pre prihlásenie:",
+        "placeholder_email": "Napíšte svoj E-mail",
+        "button_next": "Ďalší krok",
+        "registration_text": "Ešte nemáte účet?",
+        "registration_button": "Vytvoriť účet."
+    },
+    "uploading": {
+        "progress": "Nahrávam súbory {current}/{total}"
+    },
+    "inputs": {
+        "placeholder_search_files": "Hľadajte súbory…"
+    },
+    "messages": {
+        "nothing_from_participants": "Zatiaľ nemáš žiadné súbory od ostatných uživateľov",
+        "nothing_to_preview": "Tu nie je nič pre zobrazenie.",
+        "nothing_was_found": "Nič sa nenašlo."
+    },
+    "locations": {
+        "shared": "Zdieľané",
+        "home": "Domov",
+        "trash": "Kôš"
+    },
+    "file_detail": {
+        "author_participant": "Verejný účastník",
+        "created_at": "Vytvorené",
+        "where": "Umiestnenie",
+        "shared": "Zdieľané",
+        "author": "Autor",
+        "size": "Veľkosť"
+    },
+    "empty_page": {
+        "description": "Nahrajte súbory jednoducho cez tlačidlo nahrať",
+        "call_to_action": "Nahrať súbory",
+        "title": "Tu nie je nič"
+    },
+    "alerts": {
+        "error_confirm": "To je hrozné!",
+        "success_confirm": "Skvelé!"
+    },
+    "validation_errors": {
+        "wrong_image": "Zrejme ste vložili zlý obrázok, skúste to znova!",
+        "incorrect_password": "Prepáč, vložili ste nesprávne heslo :("
+    },
+    "pronouns": {
+        "of": "z"
+    },
+    "storage": {
+        "sec_capacity": "Kapacita úložiska",
+        "sec_details": "Detail využitej kapacity",
+        "total_used": "Používané {used}",
+        "total_capacity": "Tvoja kapacita disku {capacity}",
+        "images": "Obrázky",
+        "videos": "Videá",
+        "audios": "Audio",
+        "documents": "Dokumenty",
+        "others": "Ostatné"
+    },
+    "folder": {
+        "item_counts": "{count} Položka | {count} Položky",
+        "empty": "Prázdne"
+    },
+    "item_thumbnail": {
+        "original_location": "Pôvodné umiestnenie",
+        "deleted_at": "Vymazané {time}"
+    },
+    "preview_type": {
+        "list": "List",
+        "grid": "Mriežka"
+    },
+    "context_menu": {
+        "remove_from_favourites": "Vymazať obľúbené",
+        "add_to_favourites": "Pridať do obľúbených",
+        "profile_settings": "Nastavenia profilu",
+        "create_folder": "Vytvoriť priečinok",
+        "share_edit": "Upraviť zdieľanie",
+        "empty_trash": "Vyprázdniť kôš",
+        "add_folder": "Nový priečinok",
+        "log_out": "Odhlásiť sa",
+        "download": "Stiahnúť",
+        "rename": "Premenovať",
+        "restore": "Obnoviť",
+        "upload": "Nahrať",
+        "detail": "Detail",
+        "delete": "Vymazať",
+        "share": "Zdieľať",
+        "move": "Presunúť"
+    },
+    "menu": {
+        "files": "Súbory",
+        "latest": "Posledne nahrané",
+        "shared": "Zdieľané súbory",
+        "trash": "Kôš",
+        "settings": "Nastavenia",
+        "logout": "Odhlásiť sa",
+        "profile": "Nastavenia profilu",
+        "password": "Heslo",
+        "storage": "Úložisko",
+        "admin": "Administrácia"
+    },
+    "sidebar": {
+        "favourites": "Obľúbené",
+        "favourites_empty": "Presuňte sem obľúbený priečinok",
+        "folders_empty": "Vytvorte svoj prvý priečinok",
+        "latest": "Posledne nahraté",
+        "home": "Domov",
+        "tools_title": "Nástroje",
+        "locations_title": "Menu",
+        "navigator_title": "Navigátor",
+        "my_shared": "Moje zdieľané položky",
+        "participant_uploads": "Nahrávania účastníkov"
+    },
+    "popup_rename": {
+        "title": "Zmeňte názov položky"
+    },
+    "popup_create_folder": {
+        "title": "Prosím, vložte názov nového priečinka",
+        "folder_default_name": "Nový priečinok"
+    },
+    "popup_move_item": {
+        "submit": "Presunúť položku",
+        "title": "Presuňte položku",
+        "cancel": "Zrušiť"
+    },
+    "popup_pass_changed": {
+        "title": "Tvoje heslo bolo zmenené!",
+        "message": "Od teraz máte nové heslo."
+    },
+    "popup_trashed": {
+        "title": "Váš kôš bol vymazaný!",
+        "message": "Od teraz máte prázdny a čistý kôš"
+    },
+    "popup_error": {
+        "title": "Ups, niekde nastala chyba!",
+        "message": "Niečo sa stalo a nemôžme pokračovať. Prosím kontaktuj nás."
+    },
+    "popup_exceed_limit": {
+        "title": "Ups, presiahli ste limit úložiska",
+        "message": "Prosím, kontaktujte administrátora pre navyšenie limitu."
+    },
+    "popup_share_create": {
+        "title": "Zdieľaj {item}"
+    },
+    "popup_share_edit": {
+        "title": "Upraviť nastavenia zdieľania",
+        "change_pass": "Zmeniť heslo",
+        "save": "Uložiť zmeny",
+        "stop": "Zastaviť zdieľanie",
+        "confirm": "Potvrdiť"
+    },
+    "shared": {
+        "empty_shared": "Zatiaľ ste nič nezdieľali",
+        "editor": "Môže upravovať a nahrávať súbory",
+        "visitor": "Môže len vidieť a sťahovať súbory",
+        "can_download": "Môže stiahnúť súbor"
+    },
+    "shared_form": {
+        "placeholder_permission": "Zvoľte oprávnenia",
+        "label_password_protection": "Chrániť heslom",
+        "button_done": "Super, som hotový!",
+        "button_generate": "Vygenerovať link",
+        "label_permission": "Oprávnenie",
+        "label_shared_url": "Zdieľací odkaz"
+    },
+    "actions": {
+        "create_folder": "Vytvoriť priečinok",
+        "preview": "Zmeniť náhľad",
+        "upload": "Nahrať súbory",
+        "delete": "Vymazať položku",
+        "move": "Presunúť položku",
+        "share": "Zdieľať položku"
+    },
+    "types": {
+        "folder": "Priečinok",
+        "file": "Súbor"
+    },
+    "popup_passport_error": {
+        "title": "Nesprávny Passport Grand Client",
+        "message": "Pravdebodobne ste nespravne vygenerovali Passport Grant client alebo ste nenastavili udaje správne. Prosím následujte inštalačné inštrukcie."
+    },
+    "popup_signup_error": {
+        "title": "Chyba serveru",
+        "message": "Prosím skontrolujte databázove spojenie, či všetko funguje správne."
+    },
+    "popup_paylod_error": {
+        "title": "Súbor je príliš veľký",
+        "message": "Prepáčte, súbor je príliš veľký a nemôže byť nahraný."
+    },
+    "popup_deleted_user": {
+        "title": "Uživateľ bol vymazaný",
+        "message": "Uživateľ bol vymazaný so všetkými uživateľskými dátami."
+    },
+    "user_box_storage": {
+        "title": "Zmeňiť kapacitu úložiska",
+        "description": "Zmeňiť kapacitu úložiska formulárom nižšie. Môžeš písať iba čiselné hodnoty, napríklad hodnota '5' znamená, že uživateľ bude mať 5GB kapacitz úložiska."
+    },
+    "user_box_password": {
+        "title": "Zmeňiť uživateľské heslo",
+        "description": "Môžete zmeniť uživateľské heslo zaslaním resetovacieho emailu uživateľovi. Uživateľ bude presmerovaný na stránku, kde si môže zmeniť heslo na nové."
+    },
+    "user_box_delete": {
+        "title": "Vymazať uživateľa",
+        "description": "Môžete vymazať svojho uživateľa, lenže, dávaj pozor! Táto událosť je nezvratná a všetke uživateľské dáta vrátane uživateľových súborov budú vymazané!"
+    },
+    "user_box_role": {
+        "title": "Zmeniť uživateľskú rolu",
+        "description": "Môžete zmeniť uživateľskú rolu pre aktuálneho uživateľa. Administrátorska rola môže editovať alebo vytvárať nových uživateľov, zmeniť kapacitu úložiska a mnoho dalších nastavení aplikácie."
+    },
+    "admin_menu": {
+        "admin_label": "Administrácia",
+        "users": "Uživatelia"
+    },
+    "admin_page_user": {
+        "select_role": "Vyberte uživateľskú rolu",
+        "save_role": "Uložiť Rolu",
+        "label_person_info": "Osobné informácie",
+        "label_delete_user": "Napíšte uživateľovo meno ‘{user}‘. Rozlišujte medzi malými a veľkými písmenami",
+        "label_change_capacity": "Vpíšte kapacitu úložiska v GB",
+        "placeholder_delete_user": "Píšte sem",
+        "delete_user": "Vymazať uživateľa",
+        "change_capacity": "Zmeniť kapacitu",
+        "send_password_link": "Odoslať email s resetom hesla",
+        "tabs": {
+            "detail": "Detail",
+            "storage": "Využitie úložiska",
+            "password": "Heslo",
+            "delete": "Vymazať uživateľa"
+        },
+        "table": {
+            "name": "Užívateľ",
+            "role": "Rola",
+            "storage_used": "Využitie úložiska",
+            "storage_capacity": "Kapacita úložiska",
+            "created_at": "Registrovaný",
+            "action": "Akcia"
+        },
+        "create_user": {
+            "group_details": "Detail účtu",
+            "group_settings": "Nastavenia účtu",
+            "submit": "Vytvoriť uživateľa",
+            "label_email": "Napíšte E-mail",
+            "label_name": "Napíšte celé meno",
+            "label_conf_pass": "Potvrďte heslo"
+        }
+    },
+    "toaster": {
+        "changed_user": "Úspešne ste zmenili rolu užívateľa",
+        "sended_password": "Úspešne ste odoslali email uživateľovi pre reset hesla!",
+        "changed_capacity": "Úspešne ste zmenili kapacitu úložiska uživateľa!",
+        "created_user": "Úspešne ste vytvorili uživateľa1"
+    },
+    "roles": {
+        "admin": "Admin",
+        "user": "Užívateľ"
+    },
+    "datatable": {
+        "paginate_info": "Zobrazuje sa 1 - {visible} z {total} položiek"
+    },
+    "input_image": {
+        "title": "Vložte obrázok",
+        "supported": "Podporované formáty sú .png, .jpg, .jpeg."
+    }
+}
